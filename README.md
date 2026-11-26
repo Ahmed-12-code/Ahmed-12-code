@@ -1,11 +1,11 @@
 <h1 align="center">
   <a href="https://github.com/Ahmed-12-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F5D95&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Alaa+Bahnacy;Junior+Backend+Developer;PHP+8+%7C+Laravel+%7C+MySQL;Computer+%26+Control+Eng.+%40+Tanta+University" alt="Typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F5D95&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Alaa+Bahnacy;Junior+Full+Stack+Developer;PHP+8+%7C+Laravel+%7C+MySQL;Computer+%26+Control+Eng.+%40+Tanta+University" alt="Typing header" />
   </a>
 </h1>
 
 <p align="center">
-Junior Backend Developer from Tanta, Egypt. I build PHP 8 and Laravel web apps with MySQL and REST APIs.
+Junior Full Stack Developer from Tanta, Egypt. I build PHP 8 and Laravel web apps with MySQL and REST APIs.
 </p>
 
 <p align="center">
