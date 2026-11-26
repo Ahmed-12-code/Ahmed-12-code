@@ -10,7 +10,7 @@ PHP 8 · Laravel · MySQL · REST APIs · JavaScript · Bootstrap · Git · Comp
 
 - **[REFsYard](https://github.com/Ahmed-12-code/REFsYard)** - Laravel e-commerce platform where researchers browse, search and buy scientific references (team project).
 - **[createivo/db](https://packagist.org/packages/createivo/db)** - small PHP MySQL query builder, published on Packagist ([source](https://github.com/Ahmed-12-code/db_package)).
-- **[return-it](https://github.com/Ahmed-12-code/return-it)** - lost and found web app for university students (team project).
+- **[return-it](https://github.com/Ahmed-12-code/return-it)** - lost and found mobile app (Flutter) for university students (team project).
 
 ## Currently
 
